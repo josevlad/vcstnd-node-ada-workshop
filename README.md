@@ -12,7 +12,7 @@ Antes de iniciar la practica, debe tener lo siguiente:
 
 # Vamos al codigo
 
-> **Nota:** Es importante comprender que todo lo que se desarrolle en la practica, tiene como finalidad exponer el tipo de aplicacion que se logrará desarrollar al realizar el curso **Backend Java de Ada** y no entender plenamente cada elemento del codigo de la aplicacion a demostrar.
+> **Nota:** Es importante comprender que todo lo que se desarrolle en la practica, tiene como finalidad exponer el tipo de aplicacion que se logrará desarrollar al realizar el curso **Backend de Ada** y no entender plenamente cada elemento del codigo de la aplicacion a demostrar.
 
 ## Configuracion del IDE
 
