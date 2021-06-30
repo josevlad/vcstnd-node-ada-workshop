@@ -3,13 +3,7 @@ const router = express.Router();
 const basePath = '/';
 
 router.get(basePath, (req, res) => {
-    let response = {
-        httpStatus: 200,
-        body: {
-            hello: 'wolrd'
-        }
-    }
-    res.status(response.httpStatus).json(response);
+    res.status(200).json('hello wolrd');
 });
 
 module.exports = router;
