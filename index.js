@@ -8,7 +8,7 @@ server.use(cors());
 server.use(express.urlencoded({ extended: true }));
 server.use(express.json());
 
-server.use('/', routes.helloWorldRoutes);
+server.use('/', routes.mainRoutes);
 
 server.listen(port, function() {
     console.log(`server listening on port ${port}`);

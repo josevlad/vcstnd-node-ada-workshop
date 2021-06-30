@@ -1,5 +1,5 @@
-const helloWorldRoutes = require('./main-routes');
+const mainRoutes = require('./main-routes');
 
 module.exports = {
-    helloWorldRoutes
+    mainRoutes
 }
