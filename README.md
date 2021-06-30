@@ -14,18 +14,6 @@ Antes de iniciar la practica, debe tener lo siguiente:
 
 > **Nota:** Es importante comprender que todo lo que se desarrolle en la practica, tiene como finalidad exponer el tipo de aplicacion que se logrará desarrollar al realizar el curso **Backend de Ada** y no entender plenamente cada elemento del codigo de la aplicacion a demostrar.
 
-## Configuracion del IDE
-
-Antes de empezar a realizar el codigo, es necesario instalar una extension en el ide para que este no muestre un error de una libreria que se usa en el proyecto.
-
-Para realizar esta instalacion, vamos a la seccion de `Extensisons` y en el buscador escribimos `Lombok Annotations`.
-
-Se mostrará una serie de opciones e instalamos la que tiene por nombre :hot_pepper: `Lombok Annotations Support for VS Code`.
-
-Nos pregutará si queremeos instalarlo globalmente o en el proyecto, selecionar en el proyecto.
-
-y listo! ya esta configurado el IDE.
-
 ## database.json
 
     [
