@@ -11,3 +11,5 @@ router.get(basePath, (req, res) => {
     }
     res.status(response.httpStatus).json(response);
 });
+
+module.exports = router;
